@@ -1,5 +1,13 @@
 # Projet Data Warehouse
-Procéder a la création d'un moderne data warehouse avec SQL Server, en incluant un processus ETL, du data modeling et de l'analyse de données.
+Ce projet vise à procéder à la création d'un moderne data warehouse avec SQL Server, en incluant un processus ETL, du data modeling et de l'analyse de données.
+
+---
+## 🏗️ Data Architecture
+L’architecture des données pour ce projet suit l’architecture Medallion avec les couches **Bronze**, **Silver** et **Gold** :
+
+
+
+
 
 ---
 
