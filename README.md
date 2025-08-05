@@ -3,6 +3,7 @@ Ce projet vise à procéder à la création d'un moderne data warehouse avec SQL
 
 ---
 ## 🏗️ Data Architecture
+
 L’architecture des données pour ce projet suit l’architecture Medallion avec les couches **Bronze**, **Silver** et **Gold** :
 ![Data Architecture](docs/data_architecture.png)
 
